@@ -13,3 +13,9 @@ npm install -g reveal-md
 ```bash
 reveal-md example.md
 ```
+
+## Use with custom theme
+
+```bash
+reveal-md example.md --theme theme/styles.css
+```
